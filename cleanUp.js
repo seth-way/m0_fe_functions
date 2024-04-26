@@ -25,7 +25,7 @@ console.log(addThreeNums(1, 2, 3), ': sum of 3 should be -> 6');
 console.log(addThreeNums(4, 2, 7), ': sum of 3 should be -> 13');
 
 // EX 3:
-// The `func` keyword was updated to be `function`
+// The `func` keyword was updated to be `function`. I cleaned up the formatting a bit.
 function makeFreshPesto() {
   console.log(
     'Buy ingredients: basil, parmesan, romano, olive oil, pine nuts, garlic, salt, pepper'
